@@ -9,7 +9,7 @@
 
 
 @font-face{
-	font-family: myFont3;
+	font-family: Poppins;
 	src:url(../fonts/Poppins-bold.otf);
 }
 *{
@@ -29,7 +29,7 @@
 	justify-content: space-between;
 	padding:0px;
 	color: white;
-	font-family: myFont3, sans-serif;
+	font-family: Poppins;
 
 }
 
@@ -110,14 +110,14 @@ header{
 	font-size: 7vmin;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	font-family: myFont3, sans-serif;
+	font-family: Poppins;
 	
 
 }
 
 .header-content h1{
 	font-size: 4vmin;
-	font-family: myFont, sans-serif;
+	font-family: myFont;
 	color: white;
 }
 
@@ -136,7 +136,7 @@ header{
 	width: 130px;
 	height: 65px;
 	padding: 8px 15px;
-	font-family:myFont2, sans-serif;
+	font-family:myFont2;
 	font-weight: bold;
 	border: none;
 	color: whitesmoke;
